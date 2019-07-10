@@ -1,0 +1,14 @@
+{
+   "name": "EUB_project1",
+   "description": "Description for EUB_project1.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "EUB_project1",
+     "bullets": []
+   }
+ }
